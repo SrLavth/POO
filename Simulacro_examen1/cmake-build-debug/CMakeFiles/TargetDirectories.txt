@@ -1,0 +1,3 @@
+C:/Users/juanm/Desktop/CloudPOO_ini - copia/CloudPOO_ini/cmake-build-debug/CMakeFiles/cloudpoo.dir
+C:/Users/juanm/Desktop/CloudPOO_ini - copia/CloudPOO_ini/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/juanm/Desktop/CloudPOO_ini - copia/CloudPOO_ini/cmake-build-debug/CMakeFiles/rebuild_cache.dir
